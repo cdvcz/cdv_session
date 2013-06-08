@@ -6,7 +6,6 @@ Instalace:
 
 gem 'cdv_session', git: 'cesta_k_repozitari_s_gemem'
 
-
 2) bundle
 
 3) rails g cdv_session:config

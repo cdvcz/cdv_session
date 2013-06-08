@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    CDV session (0.0.1)
+    cdv_session (0.0.1)
       rails (~> 3.2.13)
 
 GEM
@@ -92,6 +92,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  CDV session!
+  cdv_session!
   jquery-rails
   sqlite3
