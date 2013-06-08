@@ -1,0 +1,14 @@
+= CdvSession
+
+Instalace:
+
+1) pridat do Gemfile radek:
+
+gem 'cdv_session', git: 'cesta_k_repozitari_s_gemem'
+
+
+2) bundle
+
+3) rails g cdv_session:config
+
+4) zkontrolovat/upravit konfiguraci v config/initializers/cdv_session.rb

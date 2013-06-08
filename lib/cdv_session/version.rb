@@ -1,0 +1,3 @@
+module CdvSession
+  VERSION = "0.0.1"
+end
