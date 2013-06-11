@@ -1,5 +1,5 @@
 module CdvSession
-  class Account < ActiveResource::Base
+  class Account < CdvSession::ServiceResource
     self.site = CdvSession.accounts_service_url
   end
 end
